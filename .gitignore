@@ -1,0 +1,17 @@
+target/
+target-grunt/
+log/
+
+
+.DS_Store
+
+.idea/
+.idea_modules/
+out/
+
+*.iml
+*.iws
+.vagrant/
+
+build/
+.gradle/
